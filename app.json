@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/edadc559dc23dfccb9895.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/moazizaa/music",
+    "repository": "https://github.com/ahomedelnagm/music012",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
